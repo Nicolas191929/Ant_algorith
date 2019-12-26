@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rupy.AntColonyTSP.Ant">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="m_CurrentPosition" Hidden="true" />
+      <Field Name="m_Pheromones" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgAACgAAAgAAAAAAAAAAAQBgAAADIAAAAAEEA=</HashCode>
+      <FileName>Ant.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CurrentPosition" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="VisitedCities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Rupy.AntColonyTSP.City">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <Members>
+      <Field Name="m_Name" Hidden="true" />
+      <Field Name="m_Roads" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAEAAAQAAQAAAAAAAAAACAQAAAA=</HashCode>
+      <FileName>City.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rupy.AntColonyTSP.World">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="m_Cities" Hidden="true" />
+      <Field Name="m_Roads" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ECwDAAABAAABAAAEAgAQAEAAAQAAAAAQAAgACAAAAQA=</HashCode>
+      <FileName>World.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Cities" />
+      <Property Name="Roads" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Rupy.AntColonyTSP.Road">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <Members>
+      <Field Name="m_Distance" Hidden="true" />
+      <Field Name="m_PheromoneLevel" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ADAJAAAAAAAAAAAAAAAAAUAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Road.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rupy.AntColonyTSP.UpdateEventArgs" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAQAAAAAAAEBIAAQAAQAAAQAgAAAAAQAAAAIAE=</HashCode>
+      <FileName>UpdateEventArgs.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

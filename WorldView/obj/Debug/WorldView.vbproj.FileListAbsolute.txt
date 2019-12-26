@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.WorldView.exe
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.WorldView.pdb
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.WorldView.xml
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.dll
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.pdb
+C:\Users\User\source\repos\AntColonyTSP\WorldView\bin\Debug\Rupy.AntColonyTSP.xml
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\WorldView.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.DebugWindow.resources
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.MainForm.resources
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.Resources.resources
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\WorldView.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\WorldView.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\WorldView.vbproj.CopyComplete
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.exe
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.xml
+C:\Users\User\source\repos\AntColonyTSP\WorldView\obj\Debug\Rupy.AntColonyTSP.WorldView.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\bin\Debug\Rupy.AntColonyTSP.dll
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\bin\Debug\Rupy.AntColonyTSP.pdb
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\bin\Debug\Rupy.AntColonyTSP.xml
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\AntColonyTSP.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\Rupy.AntColonyTSP.Resources.resources
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\AntColonyTSP.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\AntColonyTSP.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\Rupy.AntColonyTSP.dll
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\Rupy.AntColonyTSP.xml
+C:\Users\User\source\repos\AntColonyTSP\AntColonyTSP\obj\Debug\Rupy.AntColonyTSP.pdb
